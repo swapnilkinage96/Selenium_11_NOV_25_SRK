@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="5" parallel="true" preserve-order="true" name="C:/Users/Dell/IdeaProjects/Selenium_11_NOV_25">
+        <classes>
+            <class name="Selenium.testngbasic.DependsOnGroupsExample"/>
+<!--            <class name="Selenium.testngbasic.DependsOnMethodExample"/>-->
+<!--            <class name="Selenium.testngbasic.Invocation"/>-->
+<!--            <class name="Selenium.testngbasic.TestNGAnnotations"/>-->
+
+        </classes>
+    </test>
+</suite>
