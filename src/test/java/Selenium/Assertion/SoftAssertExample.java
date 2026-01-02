@@ -25,6 +25,8 @@ public class SoftAssertExample {
         sf.assertTrue(pwd.isDisplayed());
         sf.assertEquals(loginbtn.getTagName(), "input");
         sf.assertAll();
+        System.out.println("HELLO GOOD MORNING");
         driver.quit();
     }
 }
+
