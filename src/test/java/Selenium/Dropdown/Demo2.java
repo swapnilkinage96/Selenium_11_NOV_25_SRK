@@ -22,10 +22,11 @@ public class Demo2 {
         driver.findElement(By.xpath("(//label[@class='custom-control-label'])[2]")).isSelected();
         driver.findElement(By.xpath("//span[text()='Web Tables']")).click();
         driver.findElement(By.xpath("//button[@id='addNewRecordButton']")).click();
-
+       System.out.println("Hello 14 jan");
 
 
     }
 }
+
 
 
